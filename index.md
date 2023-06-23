@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="lyz.jpg" class="floatpic" width="480" height="400">
+<img src="lyz.jpg" class="floatpic" width="540" height="400">
 
 **<font color='red'>[News]</font>我即将进入北京邮电大学人工智能学院攻读博士学位**。我本科毕业于东北大学计算机学院，并在北京邮电大学计算机学院获得硕士学位。
 
