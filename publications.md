@@ -26,5 +26,6 @@ Lastest Update: 23th June 2023&nbsp;
 ## Working Paper
 
 - RL-MSA: a Reinforcement Learning-based Multi-line bus Scheduling Approach.<br>**Yingzhuo Liu** (Advisor: Xingquan Zuo).
+- RL-BTG: a Reinforcement Learning-based Bus Timetable Generation approach <br>**Yingzhuo Liu**
 
 <br>
